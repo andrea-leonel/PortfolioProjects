@@ -1,1 +1,1 @@
-My Initial Portfolio of Data Analysis (work in progress)
+A couple of initial analysis I did with data on Covid and Nashville housing.
